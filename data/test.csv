@@ -1,0 +1,8 @@
+QuestionId,ConstructId,ConstructName,SubjectId,SubjectName,CorrectAnswer,QuestionText,AnswerAText,AnswerBText,AnswerCText,AnswerDText
+1869,856,Use the order of operations to carry out calculations involving powers,33,BIDMAS,A,"3 × 2 + 4 - 5 Where do the brackets need to go to make the answer equal 13?",3 × (2+4) - 5,3 × 2 + (4-5),3 × (2+4-5),Does not need brackets
+1870,1612,Simplify an algebraic fraction by factorising the numerator,1077,Simplifying Algebraic Fractions,D,"Simplify the following, if possible: (m^2 + 2m - 3) / (m - 3)",m + 1,m + 2,m - 1,Does not simplify
+1871,2774,Calculate the range from a list of data,339,Range and Interquartile Range from a List of Data,B,"Tom and Katie are discussing the 5 plants with these heights: 24 cm, 17 cm, 42 cm, 26 cm, 13 cm. Tom says if all the plants were cut in half, the range wouldn't change. Katie says if all the plants grew by 3 cm each, the range wouldn't change. Who do you agree with?",Only Tom,Only Katie,Both Tom and Katie,Neither is correct
+2001,3000,Solving for X in Linear Equations,500,Linear Equations,A,"Solve for x in the following equation: 2x + 3 = 7",x = 2,x = 4,x = 1,None of the above
+2002,3001,Find the Area of a Triangle,501,Geometry,B,"Find the area of a triangle with a base of 5 units and a height of 10 units.",Area = 15,Area = 25,Area = 50,Area = 100
+2003,3002,Probability of a Single Event,502,Probability,C,"If you flip a fair coin, what is the probability of getting heads?",0.75,0.25,0.50,0.90
+2005,3004,Solving Exponential Equations,504,Exponential Functions,A,"Solve the exponential equation: 2^x = 8",x = 3,x = 2,x = 4,x = 1
